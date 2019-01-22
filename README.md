@@ -1,2 +1,3 @@
 # arturosalazar.github.io
-Project Website
+
+A Landing Page that will (eventually) contain a selection of the projects that I'm currently working on
